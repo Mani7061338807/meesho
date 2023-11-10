@@ -114,6 +114,11 @@ form{
     width: 180px;
     margin-top: 5px;
 }
+.download{
+    text-decoration: none;
+    color: white;
+    padding-left: 10px;
+}
 .downloadHoverBtnContainer{
     position: absolute;
     bottom: 0;

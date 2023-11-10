@@ -182,7 +182,7 @@ renderProductData()
 
 function ClickProduct(id){
     localStorage.setItem("productId",JSON.stringify(id))
-    // window.location("./page/product.html")
+     window.location("./page/product.html")
 
     alert("hii")
 }
